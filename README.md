@@ -1,3 +1,5 @@
+A bot that sends a quote from souls-like games once daily to Bluesky.
+
 # Build your own Bluesky bot 🦋
 
 This is a template repo for building [Bluesky](https://bsky.app/) bots that post on their own schedule. It uses [TypeScript](https://www.typescriptlang.org/) to build the bot and [GitHub Actions](https://docs.github.com/en/actions) to schedule the posts.
